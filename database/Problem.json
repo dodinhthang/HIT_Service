@@ -1,0 +1,42 @@
+{ 
+    "_id" : ObjectId("5b23947b1341471740b92715"), 
+    "title" : "Muc do trung binh 1", 
+    "content" : "muc do turng binh 1", 
+    "correctScore" : 30.0, 
+    "level" : 2.0
+}
+{ 
+    "_id" : ObjectId("5b2394841341471740b92716"), 
+    "title" : "Muc do trung binh 2", 
+    "content" : "muc do turng binh 2", 
+    "correctScore" : 30.0, 
+    "level" : 2.0
+}
+{ 
+    "_id" : ObjectId("5b23949a1341471740b92717"), 
+    "title" : "Muc do kho 1", 
+    "content" : "muc do kho 1", 
+    "correctScore" : 50.0, 
+    "level" : 3.0
+}
+{ 
+    "_id" : ObjectId("5b2394b11341471740b92718"), 
+    "title" : "Muc do kho 2", 
+    "content" : "muc do kho 2", 
+    "correctScore" : 50.0, 
+    "level" : 3.0
+}
+{ 
+    "_id" : ObjectId("5b2394361341471740b92713"), 
+    "title" : "Tim max cua mang", 
+    "content" : "Hay tim max cua phan tu", 
+    "correctScore" : 20.0, 
+    "level" : 1.0
+}
+{ 
+    "_id" : ObjectId("5b2394591341471740b92714"), 
+    "title" : "Tim min cua mang", 
+    "content" : "Hay tim min cua phan tu", 
+    "correctScore" : 20.0, 
+    "level" : 1.0
+}

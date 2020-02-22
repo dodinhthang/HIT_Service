@@ -1,0 +1,80 @@
+{ 
+    "_id" : ObjectId("5b600e312978bb02580bc21c"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "admin", 
+    "phone" : "0984318297", 
+    "studentId" : "1041360143", 
+    "pass" : "$2b$10$kzZZQ1nJi9gMC2Je8i8r5.eX8PIXezvL8..ebrm9w.RMHA.YNbNu.", 
+    "birthDate" : ISODate("2018-07-18T17:00:00.000+0000"), 
+    "name" : "Trung-Admin", 
+    "email" : "trung.aib@gmail.com", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b600f6e2978bb02580bc227"), 
+    "isLocked" : false, 
+    "isOnline" : true, 
+    "role" : "user", 
+    "phone" : "09843824768", 
+    "studentId" : "1041360142", 
+    "pass" : "$2b$10$P.tjoHNoO/kWFLOMzEltze/aYuA1VlwzzeVrCWJsWazLAjumypYNa", 
+    "birthDate" : ISODate("2018-07-01T17:00:00.000+0000"), 
+    "name" : "Trung-Test1", 
+    "email" : "bmbknds08@gmail.com", 
+    "__v" : NumberInt(0), 
+    "playId" : ObjectId("5b600fcd2978bb02580bc228")
+}
+{ 
+    "_id" : ObjectId("5b62bc05427d402f0866d3f8"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "user", 
+    "phone" : "0984317777", 
+    "studentId" : "1041360141", 
+    "pass" : "$2b$10$CNs6SDLQTzU7Jen3KmuT7.jFN3XzF31YWmlZJz409FLtzrBwFI5DO", 
+    "birthDate" : ISODate("2018-08-22T17:00:00.000+0000"), 
+    "name" : "Trung", 
+    "email" : "bmbknds05@gmail.com", 
+    "__v" : NumberInt(0), 
+    "playId" : ObjectId("5b6571463445c90e3c48d1eb")
+}
+{ 
+    "_id" : ObjectId("5b67f467b81c8c3350520ea5"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "judge", 
+    "phone" : "0984314778", 
+    "studentId" : "1111111111", 
+    "pass" : "$2b$10$ka25fDQ6ahsON4ve6lPlOe8sQEq.JpFjywory0DkSsD7rYDP77IIG", 
+    "birthDate" : ISODate("2020-06-09T17:00:00.000+0000"), 
+    "name" : "Trung-Judge", 
+    "email" : "bmbknds01@gmail.com", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b6eab1788f5513b9c3cec9a"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "admin", 
+    "phone" : "0976421113", 
+    "studentId" : "9999999999", 
+    "pass" : "$2b$10$ov2XpzucaUHoMdA60Y.76efFSfJ1aeO169V5e/JTjSn5EWoIho9ti", 
+    "birthDate" : ISODate("2018-01-07T17:00:00.000+0000"), 
+    "name" : "Admin 1", 
+    "email" : "admintesst@gmail.com", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b6eac1088f5513b9c3ceca0"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "judge", 
+    "phone" : "0984321576", 
+    "studentId" : "0000000000", 
+    "pass" : "$2b$10$R3tZLDfRzmYFdPQcshxwKuCRiFNn4QOc.gQGT0NTuGmBnNVL0Sx1q", 
+    "birthDate" : ISODate("2018-08-07T17:00:00.000+0000"), 
+    "name" : "Judge 2", 
+    "email" : "judge2@gmail.com", 
+    "__v" : NumberInt(0)
+}

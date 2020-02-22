@@ -1,0 +1,80 @@
+{ 
+    "_id" : ObjectId("5b30ae1ae3db182bfc1f5fff"), 
+    "history" : {
+        "questions" : [
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f6008"), 
+                "questionId" : ObjectId("5af7bf81e65b3b0ca8e163c9"), 
+                "answered" : true, 
+                "answer" : "32"
+            }, 
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f6007"), 
+                "questionId" : ObjectId("5af7bf81e65b3b0ca8e163c7"), 
+                "answered" : false
+            }, 
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f6006"), 
+                "questionId" : ObjectId("5af7bf81e65b3b0ca8e163c5"), 
+                "answered" : false
+            }, 
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f6005"), 
+                "questionId" : ObjectId("5af7bf81e65b3b0ca8e163c4"), 
+                "answered" : false
+            }, 
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f6004"), 
+                "questionId" : ObjectId("5af7bf81e65b3b0ca8e163c8"), 
+                "answered" : true, 
+                "answer" : "7"
+            }, 
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f6003"), 
+                "questionId" : ObjectId("5af7bf81e65b3b0ca8e163c4"), 
+                "answered" : false
+            }, 
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f6002"), 
+                "questionId" : ObjectId("5af7bf81e65b3b0ca8e163d0"), 
+                "answered" : false
+            }, 
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f6001"), 
+                "questionId" : ObjectId("5af7bf81e65b3b0ca8e163cf"), 
+                "answered" : false
+            }, 
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f6000"), 
+                "questionId" : ObjectId("5af7bf81e65b3b0ca8e163c3"), 
+                "answered" : false
+            }
+        ], 
+        "problems" : [
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f600b"), 
+                "problemId" : ObjectId("5b2394591341471740b92714"), 
+                "correct" : false, 
+                "score" : NumberInt(0)
+            }, 
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f600a"), 
+                "problemId" : ObjectId("5b2394841341471740b92716"), 
+                "correct" : false, 
+                "score" : NumberInt(0)
+            }, 
+            {
+                "_id" : ObjectId("5b30ae1ae3db182bfc1f6009"), 
+                "problemId" : ObjectId("5b2394b11341471740b92718"), 
+                "correct" : false, 
+                "score" : NumberInt(0)
+            }
+        ]
+    }, 
+    "time" : NumberInt(3220), 
+    "status" : NumberInt(0), 
+    "totalScore" : NumberInt(0), 
+    "totalTime" : NumberInt(3600), 
+    "userID" : ObjectId("5b27336fcc68a52a203281cc"), 
+    "__v" : NumberInt(0)
+}

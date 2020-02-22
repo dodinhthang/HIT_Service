@@ -1,0 +1,753 @@
+{ 
+    "_id" : ObjectId("5af7bf6be65b3b0ca8e163ba"), 
+    "content" : "Máy tính sử dụng hệ đếm nào sau đây???", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "Nhị phân", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "Nhị phân"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "Bát phân"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "Thập phân"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "Thập lục phân"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf6be65b3b0ca8e163bb"), 
+    "content" : "Một ký tự trong hệ ASCII cần dùng bao nhiêu bit để biểu diễn", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "8", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "4"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "8"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "12"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "16"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf6be65b3b0ca8e163bc"), 
+    "content" : "Đổi số 15 (hệ 10) sang hệ nhị phân ta được kết quả?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "1111", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "1010"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "1011"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "1101"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "1111"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf6be65b3b0ca8e163bd"), 
+    "content" : "Tên viết tắt của ổ cứng (đĩa cứng)?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "HDD", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "SSD"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "HHD"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "HDD"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "SHD "
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf6be65b3b0ca8e163be"), 
+    "content" : "Dung lượng lớn nhất của một ổ cứng hiện tại là bao nhiêu (tính đến tháng 2/2018)?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "30.72 TB", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "20 TB"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "20.72 TB"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "30.72 TB"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "40.72 TB"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf6be65b3b0ca8e163bf"), 
+    "content" : "Tốc độ của cao nhất của chuẩn SATA 3", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "600 MBps", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "30 MBps"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "60 MBps"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "300 MBps"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "600 MBps"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf6be65b3b0ca8e163c0"), 
+    "content" : "Lần đầu tiên Bitcoin được sử dụng để mua hàng hóa là vào năm nào", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "2010", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "2009"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "2010"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "2011"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "2012"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf6be65b3b0ca8e163c1"), 
+    "content" : "Mạng ARPANET - Tiền thân của mạng Internet ra đời vào năm nào", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "1969", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "1960"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "1963"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "1969"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "1978"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf6be65b3b0ca8e163c2"), 
+    "content" : "Bạn cho biết mạng lưới toàn cầu www ra đời vào năm nào?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "1991", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "1890"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "1990"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "1991"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "1891"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163c3"), 
+    "content" : "Đây là tên của máy tính mạnh nhất và nổi tiếng nhất ra đời từ Chiến tranh thế giới thứ hai", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "ENIAC", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "ENIAC"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "EMIAX"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "NINAC"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "ACNI"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163c4"), 
+    "content" : "Linux là hệ điều hành", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "Mã nguồn mở", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "Mã nguồn đóng"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "Mã nguồn mở"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "Độc quyền "
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "Di động"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163c5"), 
+    "content" : "Đơn vị thông tin nào sau đây lớn nhất?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "TB", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "KB"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "GB"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "TB"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "MB"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163c6"), 
+    "content" : "Ngôn ngữ lập trình được phát triển từ đầu thập niên 1970 bởi Dennis Ritchie để dùng trong hệ điều hành UNIX", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "C", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "Objective-C"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "Node JS"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "Java"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "C"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163c7"), 
+    "content" : "Tên biến nào dưới đây được viết theo đúng quy tắc đặt tên Camel trong ngôn ngữ lập trình C", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "iTFestival", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "iT_Festival"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "5tuoiITFestival"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "iTFestival"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "ITFestival"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163c8"), 
+    "content" : "Trong ngôn ngữ lập trình C, cho biết giá trị của a sau câu lệnh: a = 6&7; ", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "6", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "5"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "6"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "7"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "8"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163c9"), 
+    "content" : "Một địa chỉ IP v6 gồm bao nhiêu bit?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "128", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "32"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "64"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "128"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "256"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163ca"), 
+    "content" : "Internet tại Việt Nam được coi như chính thức bắt đầu từ năm nào?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "1997", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "1994"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "1995"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "1996"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "1997"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163cb"), 
+    "content" : "Số lượng người dùng facebook tại Việt Nam tính đến tháng 4/2018", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "58 triệu", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "40 triệu"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "46 triệu"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "52 triệu"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "58 triệu"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163cc"), 
+    "content" : "Khoa CNTT thành lập tháng/năm nào?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "tháng 7/1999", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "tháng 5/1999"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "tháng 6/1999"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "tháng 7/1999"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "tháng 8/1999"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163cd"), 
+    "content" : "Để chia một đoạn mạng thành các đoạn mạng nhỏ hơn người ta dùng", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "Switch", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "Repeater"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "Switch"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "Router"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "Hub"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163ce"), 
+    "content" : "Từ Android trong hệ điều hành di động Android hiện nay, nghĩa là", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "Người máy sinh học", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "Người máy sinh học"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "Di động thông minh"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "Tuyệt tác"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "Ngon miệng"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163cf"), 
+    "content" : "Độ phân giải của màn hình 4k gốc là bao nhiêu?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "4096 x 2160", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "4000 x 2000"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "4096 x 2160"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "1920 x 1080"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "2048 x 858"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163d0"), 
+    "content" : "Các máy tính bị xâm nhập, dùng để thực hiện DDOS gọi là", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "zombie", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "sential"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "ghost"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "zombie"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "undying"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf81e65b3b0ca8e163d1"), 
+    "content" : "Trong Excel 2010 hàm IF có thể lồng nhau bao nhiêu cấp?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "32", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "7"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "14"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "32"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "64"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf97e65b3b0ca8e163d2"), 
+    "content" : "Thiết bị nào sau đây dùng để kết nối mạng?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "Router", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "Ram"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "Rom"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "Router"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "CPU"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf97e65b3b0ca8e163d3"), 
+    "content" : "Trong soạn thảo Word, tổ hợp phím nào cho phép đưa con trỏ về cuối văn bản", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "Ctrl + End", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "Shift + End"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "Alt + End"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "Ctrl + End"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "Ctrl + Alt + End"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf97e65b3b0ca8e163d4"), 
+    "content" : "Dịch vụ lưu trữ đám mây của Microsoft là gì?", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "Mediafire", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "Google Driver"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "OneDrive"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "Mediafire"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "MegaShare"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5af7bf6be65b3b0ca8e163b9"), 
+    "content" : "Công nghệ Thông tin, viết tắt trong tiếng Anh là gì", 
+    "isHaveOption" : true, 
+    "isHtml" : false, 
+    "correctAnswer" : "IT", 
+    "options" : [
+        {
+            "numbering" : "a", 
+            "answer" : "CT"
+        }, 
+        {
+            "numbering" : "b", 
+            "answer" : "ET"
+        }, 
+        {
+            "numbering" : "c", 
+            "answer" : "IS"
+        }, 
+        {
+            "numbering" : "d", 
+            "answer" : "IT"
+        }
+    ], 
+    "score" : 10.0
+}
+{ 
+    "_id" : ObjectId("5b2aff5e32f96f36244285ee"), 
+    "content" : "Câu lạc bộ tin học HIT được thành lập vào ngày tháng năm nào?", 
+    "options" : [
+        {
+            "_id" : ObjectId("5b2aff5e32f96f36244285f2"), 
+            "numbering" : "A"
+        }, 
+        {
+            "_id" : ObjectId("5b2aff5e32f96f36244285f1"), 
+            "numbering" : "B"
+        }, 
+        {
+            "_id" : ObjectId("5b2aff5e32f96f36244285f0"), 
+            "numbering" : "C"
+        }, 
+        {
+            "_id" : ObjectId("5b2aff5e32f96f36244285ef"), 
+            "numbering" : "D"
+        }
+    ], 
+    "correctAnswer" : "18/08/2010", 
+    "score" : NumberInt(20), 
+    "__v" : NumberInt(0)
+}

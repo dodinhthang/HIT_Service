@@ -1,0 +1,166 @@
+{ 
+    "_id" : ObjectId("5b2723c50a52f3373cf6ef59"), 
+    "isLocked" : true, 
+    "isOnline" : false, 
+    "role" : "judge", 
+    "phone" : "0987654321", 
+    "studentId" : "0987654321", 
+    "pass" : "$2b$10$Q4QtJ8MIgh0h3O9TxMs9ee/l0u5Z/CcVhfoohuy1XOvoVBArtduIS", 
+    "birthDate" : ISODate("2000-12-31T17:00:00.000+0000"), 
+    "name" : "0987654321", 
+    "email" : "undefined", 
+    "__v" : NumberInt(0), 
+    "playId" : ObjectId("5b27a22c390a3625281fa66b"), 
+    "group" : "undefined"
+}
+{ 
+    "_id" : ObjectId("5b27336fcc68a52a203281cc"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "user", 
+    "phone" : "0987654322", 
+    "studentId" : "0987654322", 
+    "pass" : "$2b$10$dHL2SIbg2I7W/0k7Ke8EFepCMgNWOJTjLm2SrWQN0y/1P5G7/rQoK", 
+    "birthDate" : ISODate("2000-12-31T17:00:00.000+0000"), 
+    "name" : "0987654322", 
+    "email" : "undefined", 
+    "__v" : NumberInt(0), 
+    "playId" : ObjectId("5b30ae1ae3db182bfc1f5fff")
+}
+{ 
+    "_id" : ObjectId("5b271ed7933cc8225c862ec3"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "judge", 
+    "phone" : "0987654323", 
+    "studentId" : "0987654323", 
+    "pass" : "$2b$10$KapfHCOEOR02FYAq9R979Op7w8KSmezgxgnT6Apd85uvWhPabTAsy", 
+    "birthDate" : ISODate("2000-12-31T17:00:00.000+0000"), 
+    "name" : "0987654323", 
+    "email" : "dothang@gmail.com", 
+    "__v" : NumberInt(0), 
+    "playId" : ObjectId("5b271edf21007b4508f83f72"), 
+    "group" : "undefined"
+}
+{ 
+    "_id" : ObjectId("5b2869e2caa7b321985214dd"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "admin", 
+    "phone" : "0987654324", 
+    "studentId" : "0987654324", 
+    "pass" : "$2b$10$EmzEQDaJIKx86Zejn3WmY.KpsoRqVWVjWQM7G8QzBwWuiksSBDiFu", 
+    "birthDate" : ISODate("2000-12-31T17:00:00.000+0000"), 
+    "name" : "Đỗ Đình Thắng", 
+    "email" : "undefined", 
+    "__v" : NumberInt(0), 
+    "group" : "undefined"
+}
+{ 
+    "_id" : ObjectId("5b2869fdcaa7b321985214de"), 
+    "isLocked" : true, 
+    "isOnline" : false, 
+    "role" : "user", 
+    "phone" : "0987654325", 
+    "studentId" : "0987654325", 
+    "pass" : "$2b$10$46ZelQ4b0GCXYGHBg5dUnOLhkDwdNvdPw9MgS/QNzXtXbGTYguXNi", 
+    "birthDate" : ISODate("2000-12-31T17:00:00.000+0000"), 
+    "name" : "Hoang Ha", 
+    "email" : "undefined", 
+    "__v" : NumberInt(0), 
+    "group" : "undefined"
+}
+{ 
+    "_id" : ObjectId("5b286a6b65230f424ca50519"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "user", 
+    "phone" : "0987654327", 
+    "studentId" : "0987654327", 
+    "pass" : "$2b$10$FdR8eHmq.AaF1g06mpAGh.jw/rio144Od8PHvJbauhVcw0TzVcaha", 
+    "birthDate" : ISODate("2000-12-31T17:00:00.000+0000"), 
+    "name" : "0987654327", 
+    "email" : "undefined", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b286a8765230f424ca5051a"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "user", 
+    "phone" : "0987654328", 
+    "studentId" : "0987654328", 
+    "pass" : "$2b$10$sb.iPlL0662RWHnYBEhoYOzYHlh2qu2pZEG7iaR7PsRCBtkMB5PGW", 
+    "birthDate" : ISODate("2018-12-05T17:00:00.000+0000"), 
+    "name" : "0987654327", 
+    "email" : "undefined", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b286a9c65230f424ca5051b"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "user", 
+    "phone" : "0987654329", 
+    "studentId" : "0987654329", 
+    "pass" : "$2b$10$YDe0dkNW3aYIxi4QDnrslOLVFiigZunqCoJW/SAqWtyn/ps2MfR16", 
+    "birthDate" : ISODate("2018-12-05T17:00:00.000+0000"), 
+    "name" : "0987654329", 
+    "email" : "undefined", 
+    "__v" : NumberInt(0), 
+    "group" : "undefined"
+}
+{ 
+    "_id" : ObjectId("5b286ab565230f424ca5051c"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "user", 
+    "phone" : "0987654330", 
+    "studentId" : "0987654330", 
+    "pass" : "$2b$10$RV1/IAiLIq/5CGbeBnIXRuiekS1W.poOIQoWqJVKn5f1oejeYJNLi", 
+    "birthDate" : ISODate("2000-12-31T17:00:00.000+0000"), 
+    "name" : "Thai", 
+    "email" : "undefined", 
+    "__v" : NumberInt(0), 
+    "group" : "undefined"
+}
+{ 
+    "_id" : ObjectId("5b28aad9f562721a5ca5711a"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "user", 
+    "phone" : "0987654331", 
+    "studentId" : "0987654331", 
+    "pass" : "$2b$10$Eg2L/4.jVIUS/PYN1zI2ReI39S1/1n5T4ZqjGgJE/McmE1ymLQUCK", 
+    "birthDate" : ISODate("2000-12-31T17:00:00.000+0000"), 
+    "name" : "0987654331", 
+    "email" : "0987654331@com.vn", 
+    "__v" : NumberInt(0), 
+    "playId" : ObjectId("5b28aae8f562721a5ca5711b")
+}
+{ 
+    "_id" : ObjectId("5b3061c45add6419f4d8b0b9"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "user", 
+    "phone" : "0987654332", 
+    "studentId" : "0987654332", 
+    "pass" : "$2b$10$OOO0BhJlETDkAWyz1dq/Huzk.1B3B.tIaPhaFkDoHqNLTX7bc2SoS", 
+    "birthDate" : ISODate("2000-12-31T17:00:00.000+0000"), 
+    "name" : "0987654332", 
+    "email" : "0987654332@mal.com", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b46fe566b97c20f90394157"), 
+    "isLocked" : false, 
+    "isOnline" : false, 
+    "role" : "admin", 
+    "phone" : "09876543233", 
+    "studentId" : "09876543233", 
+    "pass" : "$2b$10$h4JpX4D.2QNvNNXyV38QcueXP0KhBZmrOy0hbh5lEdDVi3KHCTAiC", 
+    "birthDate" : ISODate("2000-12-31T17:00:00.000+0000"), 
+    "name" : "09876543233", 
+    "email" : "09876543233@gmao.com", 
+    "__v" : NumberInt(0)
+}
